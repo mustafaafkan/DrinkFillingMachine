@@ -1,0 +1,6 @@
+C:\Users\mustafa\Desktop\C# applications\FillingTeaApplication\Drink\Drink\bin\Debug\Drink.exe.config
+C:\Users\mustafa\Desktop\C# applications\FillingTeaApplication\Drink\Drink\bin\Debug\Drink.exe
+C:\Users\mustafa\Desktop\C# applications\FillingTeaApplication\Drink\Drink\bin\Debug\Drink.pdb
+C:\Users\mustafa\Desktop\C# applications\FillingTeaApplication\Drink\Drink\obj\Debug\Drink.csprojResolveAssemblyReference.cache
+C:\Users\mustafa\Desktop\C# applications\FillingTeaApplication\Drink\Drink\obj\Debug\Drink.exe
+C:\Users\mustafa\Desktop\C# applications\FillingTeaApplication\Drink\Drink\obj\Debug\Drink.pdb
